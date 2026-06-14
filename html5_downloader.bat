@@ -1193,6 +1193,9 @@ exit /b
 
 ::ÖNEMLİ NOTLAR::
 
+
+
+
 ::fliphtml5 pubhtml5 için config dosyasında
 ::https://online.fliphtml5.com/rzegl/yxts/javascript/config.js?1722315719
 ::https://online.fliphtml5.com/rzegl/nmro/javascript/config.js?1724755692
@@ -1204,7 +1207,7 @@ exit /b
 ::https://online.fliphtml5.com/lkxjv/hfpz/ << {"n":[".\/files\/large\/8fd4fbf09577a968dcf1aafac08385cc.webp"],"t":".\/files\/thumb\/52c94ec2ed7ae6d6bc83da1456a4da13.webp"}
 
 
-::https://online.fliphtml5.com/oxgto/dxua/ << encrypted şifreli fliphtml5_pages...chrome konsol console gerekiyor.
+::https://online.fliphtml5.com/oxgto/dxua/ << encrypted şifreli fliphtml5_pages veya window.fliphtml5_pages ...chrome konsol console gerekiyor.
 ::indivibook tarzında e-kitaplar z-kitaplar için
 ::https://egitimvadisi.etkilesimlitahta.com/#/indivibook/tyt-matematik-pdf-1-modul/15
 ::https://cdn1.indivibook.com/cozum01/f/8f44cc904fc6f31ae792076d9097ae39_1622012701/data/1750816214-ebook-data.json
@@ -1241,4 +1244,6 @@ exit /b
 ::https://www.aydindijital.com/MobileApp/BookPublic/BookDetails/424e692c-e532-4752-80d8-1ce0d7969218
 ::https://www.aydindijital.com//Media/UserData/bookimages/424e692c-e532-4752-80d8-1ce0d7969218/Page1.png
 ::https://www.aydindijital.com/smartbook/sbookpublic/GetSmartBook?bookId=1146&includePageItems=true&isSolutionPage=false&includePageImages=false&includeQImages=false&includeGfImages=false
+
+
 
